@@ -1,6 +1,9 @@
 # このリポジトリについて
 
-◆　scraping.ipynb：　指定した検索ワードで スクレイピングしながら画像のURLをファイル出力する
+指定した検索ワードで スクレイピングしながら画像のURLをファイル出力する
+
+👉 [ipynbファイルはこちら](https://github.com/iwakazusuwa/ipynb_scraping)
+
 
 詳しい使い方や解説は以下の記事をご覧ください。
 
